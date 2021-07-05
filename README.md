@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on React JS, Angular JS
-- 💞️ I’m looking to collaborate on companies offering jobs for React Web Development:)
+- 💞️ I’m looking to collaborate on companies offering jobs for React Web Development :)
 - 📫 How to reach me: "Gmail"-nikkilsva@gmail.com
 
 <!---
